@@ -46,6 +46,7 @@
 	<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
 	<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
 	<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+	<img src="https://img.shields.io/badge/mediasoup-111827?style=for-the-badge" alt="mediasoup" />
 </p>
 
 ### Languages
