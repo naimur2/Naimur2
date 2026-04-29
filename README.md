@@ -93,8 +93,17 @@
 	<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
+### Deployment & Hosting
+
+<p align="left">
+	<img src="https://img.shields.io/badge/AWS%20ECS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS ECS" />
+	<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2" />
+	<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS S3" />
+	<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+</p>
+
 <p>
-	I also work with Redux, Firebase, GraphQL, AWS Amplify, Figma, Postman, Git, Jest, Spring, TensorFlow, and OpenCV when a project calls for them.
+	I also work with Redux, Firebase, GraphQL, AWS Amplify, Figma, Postman, Git, TensorFlow, and OpenCV when a project calls for them.
 </p>
 
 ## Highlights
@@ -125,6 +134,7 @@
 - Converting ideas into fast, responsive, accessible interfaces.
 - API integration, state management, and frontend architecture.
 - Mobile app development with React Native.
+- CI/CD pipelines and automation with GitHub Actions.
 
 ## GitHub Stats
 
