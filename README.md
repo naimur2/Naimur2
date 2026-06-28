@@ -16,7 +16,7 @@
 
 <p align="center">
 	<a href="mailto:naimurrahaman248@gmail.com">Email</a> ·
-	<a href="https://linkedin.com/in/naimurrahaman2">LinkedIn</a> ·
+	<a href="https://shorturl.at/FaDae">LinkedIn</a> ·
 	<a href="https://fb.com/naimur248">Facebook</a>
 </p>
 
